@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 598,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "Don't forget what else you need as you head back to school",
+            "description": "It's important to remember a few things to help mind your online privacy and security as you head off to school.",
+            "url": "https://www.androidcentral.com/apps-software/back-to-school-privacy-security-tips-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eyQMojyVhqQWNZZpXLMwL-1200-80.jpg",
+            "publishedAt": "2024-09-07T15:00:49Z",
+            "content": "It's that time of year, and millions of young men and women are heading off to school. For many going to college, this could be the first time they are responsible for themselves, while for others, l… [+5496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "How to Watch iPhone 16 Apple Event on September 9: 'It's Glowtime'",
+            "description": "Apple is hosting an online streaming event for the public and press on Monday, September 9, 2024 at 10:00 a.m. Pacific Time. The company is expected to announce its new iPhone 16 lineup alongside new Apple Watch models, and potentially other products during t…",
+            "url": "https://www.macrumors.com/how-to/watch-glowtime-iphone-16-apple-event/",
+            "urlToImage": "https://images.macrumors.com/t/ohVZXvaA9ee1VKf9_onRCaSdNzg=/1600x/article-new/2024/08/its-glowtime-event-youtube.jpeg",
+            "publishedAt": "2024-09-07T11:00:00Z",
+            "content": "Apple is hosting an online streaming event for the public and press on Monday, September 9, 2024 at 10:00 a.m. Pacific Time. The company is expected to announce its new iPhone 16 lineup alongside new… [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eve Crosbie",
+            "title": "Here's where you might recognize the cast of Netflix's new murder-mystery series 'The Perfect Couple' from",
+            "description": "Oscar-winning actor Nicole Kidman leads the cast of the new Netflix series. Other cast members include Liev Schreiber and Dakota Fanning.",
+            "url": "https://www.businessinsider.com/the-perfect-couple-cast-recognize-who-they-have-played-2024-9",
+            "urlToImage": "https://i.insider.com/66d8871114a5cd1fcc8d32b0?width=1200&format=jpeg",
+            "publishedAt": "2024-09-07T08:47:07Z",
+            "content": "The cast of \"The Perfect Couple.\"Seacia Pavao/Netflix\r\n<ul><li>\"The Perfect Couple\" revolves around a shocking death that derails a wedding in Nantucket, MA.</li><li>The six-part series is headed up … [+8373 chars]"
+        }
+    ]
+}
